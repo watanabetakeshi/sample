@@ -1,3 +1,9 @@
+# Ruby on Rails チュートリアル：サンプルアプリケーション
+
+これは、以下のためのサンプルアプリケーションです。
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.jp/)
+by [Michael Hartl](http://michaelhartl.com/).
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
